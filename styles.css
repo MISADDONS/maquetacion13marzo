@@ -103,7 +103,7 @@ margin: 1.5em;
 
 /*inicio de banner*/
 .banner {
-    width: 80%;
+    width: 1000%;
     height: calc(100vh - 7em);
     background-color: rgb(243, 103, 241);
 
@@ -238,7 +238,7 @@ background-color: seashell;
 
 /*inicio de footer*/
 .footer {
-    width: 80%;
+    width: 100%;
     min-height: 3em;
     background-color: rgb(243, 157, 157);
 }
